@@ -1,0 +1,17 @@
+
+#planner-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding : 0;
+    overflow: hidden;
+}
+
+#planner-nav li, #planner-nav #header {
+    color: white;
+}
+
+#planner-nav li:hover {
+    color: #9a9a9a;
+    cursor: pointer;
+}
+

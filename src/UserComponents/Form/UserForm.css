@@ -1,0 +1,10 @@
+#log_in_text{
+    margin-top: 1em;
+    text-emphasis: bold;
+    color: #1976d2;
+}
+
+#log_in_text:hover{
+    color: #0b4079;
+    cursor: pointer;
+}
